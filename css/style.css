@@ -148,3 +148,30 @@ a:hover {
   text-decoration: none;
   border-radius: 6px;
 }
+
+.about-wrap {
+  padding: 100px 0;
+}
+
+.about-block {
+  display: flex;
+}
+
+.about-block-left,
+.about-block-right {
+  width: 42%;
+  margin-right: 8%;
+  align-self: center;
+}
+
+.about-block-left h2 {
+  font-size: 2.25rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
+.about-block-left p {
+  font-size: 0.875rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
