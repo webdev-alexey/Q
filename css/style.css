@@ -271,3 +271,41 @@ a:hover {
   font-size: 0.75rem;
   margin-bottom: 20px;
 }
+
+.download-wrap {
+  padding: 100px 0;
+  background: #ed4c5c;
+}
+
+.download-block {
+  display: flex;
+  color: #fff;
+}
+
+.download-block-left,
+.download-block-right {
+  width: 42%;
+  margin-right: 8%;
+  align-self: center;
+}
+
+.download-block-left h2 {
+  font-size: 2.25rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
+.download-block-left p {
+  font-size: 0.875rem;
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+.download-app {
+  display: flex;
+  margin-top: 3rem;
+}
+
+.download-app a {
+  margin-right: 1rem;
+}
